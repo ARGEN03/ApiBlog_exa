@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caching directories
+*.sqlite3
+db.sqlite3
+
+# Logs
+*.log
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Compiled Python files
+*.pyc
+
+# Django local settings
+local_settings.py
+
+# Database
+*.psql
+*.db
+
+# PostgreSQL
+*.sql
+
+# Database migration files
+/migrations/
+
+# Secret key file
+.secret_key
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled languages
+*.mo
+
+# Dependency directories
+/.venv/
+/pip/
